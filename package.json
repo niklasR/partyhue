@@ -1,0 +1,22 @@
+{
+  "name": "partyhue",
+  "version": "1.0.0",
+  "description": "Party in 140 Cally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nik",
+  "license": "UNLICENSED",
+  "eslintConfig": {
+    "extends": [
+      "iplayer-es6"
+    ],
+    "rules": {
+      "strict": 0
+    }
+  },
+  "devDependencies": {
+    "eslint-config-iplayer-es6": "^2.4.0"
+  }
+}
